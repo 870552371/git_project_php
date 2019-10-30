@@ -1,0 +1,33 @@
+body {
+    background-size: 100%;
+    background-repeat: no-repeat;
+    /*background-image: url("../A_public/icon/4.jpg");*/
+    background-color: #dcffeb;
+}
+a,a:hover,a:active,a:visited,a:link,a:focus{
+    -webkit-tap-highlight-color:rgba(0,0,0,0);
+    -webkit-tap-highlight-color: transparent;
+    outline:none;
+    background: none;
+    text-decoration: none;
+    color: #72ae9b;
+}
+ul{
+    list-style: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height: 100%;
+}
+
+tr{
+    text-align: center;
+}
+
+body,td,th,input{
+    font-size:14pt;
+    font-family:"幼圆";
+}
